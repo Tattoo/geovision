@@ -1,0 +1,1 @@
+Minimaalisuus valttia (paitsi kommentoinnissa ja testauksessa).
